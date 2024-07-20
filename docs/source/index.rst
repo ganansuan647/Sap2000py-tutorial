@@ -1,7 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to Sap2000py's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
+**Sap2000py** is a Python library for CSI OAPI. It provides a simple and intuitive API for interacting with the CSI API, allowing users to easily create, manipulate, and analyze SAP2000 projects.
 that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
@@ -18,5 +18,6 @@ Contents
 
 .. toctree::
 
+   Saproject
    usage
    api

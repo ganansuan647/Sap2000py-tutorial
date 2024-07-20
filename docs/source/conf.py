@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Sap2000py'
+copyright = '2024, Lingyun Gou'
+author = 'Lingyun Gou'
 
 release = '0.1'
 version = '0.1.0'
