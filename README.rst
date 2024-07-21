@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
+Template for the Read the Sap2000py Docs
 =======================================
-
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
 
 Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://sap2000py-tutorial.readthedocs.io/zh-cn/stable
+
